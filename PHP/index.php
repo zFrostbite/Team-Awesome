@@ -1,0 +1,4 @@
+<?php
+	#Jeddna oppegåande
+	#Ja
+?>
