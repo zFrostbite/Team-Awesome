@@ -1,3 +1,8 @@
 <?php
-#hello
+$text = 'Hello';
+		
+echo $text
+
+
 ?>
+
