@@ -26,7 +26,7 @@
 	<?php 
 	$fornavn = "Kjetil";
 	$etternavn = "Bakken";
-	echo "Jeddna du hette " .$fornavn ." " . $etternavn . " santvell? Mja.";
+	echo ucfirst("Jeddna du hette " .$fornavn ." " . $etternavn . " santvell? Mja.");
 
 	
 	?>
